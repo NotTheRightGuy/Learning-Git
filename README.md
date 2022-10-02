@@ -1,5 +1,6 @@
 # Learning-Git
 
+Hello There 👋
 This github repository has been created to test your skills in github so far and make you familiar with all the commands you will be working in the future.
 
 ### Resources to learn git
@@ -14,15 +15,15 @@ If you stil haven't learned git or having trouble following the concepts, follow
 
 List of commands you will be mostly using and expected to be proficent are as follows
 
-- > git commit
-- > git push
-- > git rebase
-- > git cherry-pick
-- > git branch
-- > git merge
-- > Topics like moving up and down the commit tree
-- > Relative movement in tree
-- > git remote
+` git commit`
+`git push`
+`git rebase`
+`git cherry-pick`
+`git branch`
+`git merge`
+`Topics like moving up and down the commit tree`
+`Relative movement in tree`
+`git remote`
 
 If you are not comfortablle with video tutorials and would like a more interactive way of learning, following is a really cool website to practice in
 
