@@ -1,6 +1,6 @@
 # Learning-Git
 
-Hello There 👋
+Hello There 👋 </br>
 This github repository has been created to test your skills in github so far and make you familiar with all the commands you will be working in the future.
 
 ### Resources to learn git
@@ -15,35 +15,17 @@ If you stil haven't learned git or having trouble following the concepts, follow
 
 List of commands you will be mostly using and expected to be proficent are as follows
 
-```
+```bash
 git commit
-```
-
-```
 git push
-```
-
-```
 git rebase
-```
-
-```
 git cherry-pick
-```
-
-```
 git branch
-```
-
-```
 git merge
-```
-
-```
 git remote
 ```
 
-> Topics like moving up and down the commit tree
+> Topics like moving up and down the commit tree</br>
 > Relative movement in tree
 
 If you are not comfortablle with video tutorials and would like a more interactive way of learning, following is a really cool website to practice in
@@ -77,7 +59,7 @@ After that you will be provided with the repository you will be working for the 
 
 - Use appropriate commit message explaining the featurs and changes made.
 
-- Put your own name and email while editing _git config --global --edit_ (\*run this command in your teriminal to save configs)
+- Put your own name and email while editing _git config --global --edit_ (*run this command in your teriminal to save configs*)
 
 # What to do next !?
 
@@ -89,7 +71,7 @@ The list of all the languages and framework will be working with are as follows
 2. CSS
    1. Tailwind or/and
    2. Bootstrap
-3. Javascript ![Javascript](https://img.icons8.com/color/344/javascript--v1.png "Text to show on mouseover").
+3. Javascript 
    1. Nodejs
    2. React
    3. Express
@@ -97,9 +79,10 @@ The list of all the languages and framework will be working with are as follows
 
 You are expected to learn the languages in the order specified for convenience and ease of learning but you can learn in your own pace
 
-### Following are the resources
+## Following are the resources
+</br>
 
--[HTML & CSS Full Course - Beginner to Pro (6 hour and 31 minutes)](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22102s) \*_The best video to learn HTML and CSS out there_
+-[HTML & CSS Full Course - Beginner to Pro (6 hour and 31 minutes)](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22102s) (_The best video to learn HTML and CSS out there_)
 
 -[Tailind CSS Tutorials in Hindi by CodeWithHarry - 16 video series](https://www.youtube.com/watch?v=L4_jarMnB0c&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&ab_channel=CodeWithHarry)
 
@@ -119,7 +102,7 @@ You are expected to learn the languages in the order specified for convenience a
 
 -[MongoDb Tutorial for Beginners in Hindi by CodeWithHarry - 1 hour 12 minutes](https://www.youtube.com/watch?v=oSIv-E60NiU)
 
-You are also requested to do your own research and practice on various website
+</br>You are also requested to do your own research and practice on various website
 
 # Final Notes
 
