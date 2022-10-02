@@ -89,7 +89,7 @@ The list of all the languages and framework will be working with are as follows
 2. CSS
    1. Tailwind or/and
    2. Bootstrap
-3. Javascript
+3. Javascript ![Javascript](https://img.icons8.com/color/344/javascript--v1.png "Text to show on mouseover").
    1. Nodejs
    2. React
    3. Express
