@@ -2,7 +2,7 @@
 
 This github repository has been created to test your skills in github so far and make you familiar with all the commands you will be working in the future.
 
-# Resources to learn git
+### Resources to learn git
 
 If you stil haven't learned git or having trouble following the concepts, following are some of the helpful link and resources by renowned name
 
@@ -24,13 +24,13 @@ List of commands you will be mostly using and expected to be proficent are as fo
 - > Relative movement in tree
 - > git remote
 
-If you are not comfortablle with video tutorials and would like a more interactive way of learning, following is a real cool website to practice in
+If you are not comfortablle with video tutorials and would like a more interactive way of learning, following is a really cool website to practice in
 
 - [Learn Git Branching](https://learngitbranching.js.org/)
 
 There is no need to dive in advance concepts and topics but learning so will help you in development.
 
-# What to do if I'm done with git
+# What to do if your done with git
 
 You will find 3 files in this repository
 
@@ -109,6 +109,10 @@ You are also requested to do your own research and practice on various website
 
 - Regarding any queries You can contact me at any time and I hope you give your best and time to this project.
 
--In the end , Spark your imagination and just go crazy
+- In the end , Spark your imagination and just go crazy
+
+- Feel free to change this README.md and switch things up in your local repo
+
+- If you find anything wrong or grammar mistake, please correct it and create a push request
 
 **HAPPY LEARING**
