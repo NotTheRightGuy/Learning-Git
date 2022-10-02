@@ -40,16 +40,11 @@ git merge
 ```
 
 ```
-Topics like moving up and down the commit tree
+git remote
 ```
 
-```
-Relative movement in tree
-```
-
-```
- git remote
-```
+> Topics like moving up and down the commit tree
+> Relative movement in tree
 
 If you are not comfortablle with video tutorials and would like a more interactive way of learning, following is a really cool website to practice in
 
