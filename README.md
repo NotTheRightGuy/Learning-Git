@@ -52,7 +52,7 @@ After that you will be provided with the repository you will be working for the 
 
 - Repo is short for repositories
 
-- If you have watched tutorials regaring git before October 1 2020, you would have noticed the word _master_ used for the top branch, but the instead of _master_ , branch _main_ is used as the top and starting of the hierarchical tree. Members are requested to keep this change in mind.
+- If you have watched tutorials regaring git before October 1 2020, you would have noticed the word _master_ used for the top branch, but instead of _master_ , branch _main_ is used as the top and starting of the hierarchical tree. Members are requested to keep this change in mind.
 
 - The branch structure while working and implementing new features will be as followed
   main -> dev -> "name"/"feature" (**_Insert your own name and feature name_**)
