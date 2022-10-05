@@ -1,6 +1,6 @@
 # Learning-Git
 
-Hello There 👋 </br>
+Hello There beautifuls👋 </br>
 This github repository has been created to test your skills in github so far and make you familiar with all the commands you will be working in the future.
 
 ### Resources to learn git
