@@ -13,6 +13,8 @@ If you stil haven't learned git or having trouble following the concepts, follow
 
 - [Git Tutorial for Beginners by Corey Schafer - 30 minutes](https://www.youtube.com/watch?v=HVsySz-h9r4&t=1s)
 
+-[Git for dummies by Nick White -15 minutes](https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=902s)
+
 List of commands you will be mostly using and expected to be proficent are as follows
 
 ```bash
